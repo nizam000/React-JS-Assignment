@@ -1,0 +1,17 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "A Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nizam Khan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/marked": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "twilio": "^5.2.0"
+  }
+}
